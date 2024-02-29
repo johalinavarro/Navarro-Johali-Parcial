@@ -1,0 +1,38 @@
+.formulary {
+    background-color: #e3e3e3;
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+.formulary h2 {
+    margin: 0;
+    padding: 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.formulary form label {
+    display: block;
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+
+.formulary form input[type="text"] {
+    padding: 10px 3px;
+    margin: 5px 0px;
+    width: 100%;
+}
+
+.formulary form button {
+    background-color: rgb(0, 145, 255);
+    border: 0;
+    padding: 10px 15px;
+    width: 100%;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}

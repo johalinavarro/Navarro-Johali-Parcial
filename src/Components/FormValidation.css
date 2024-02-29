@@ -1,0 +1,9 @@
+.invalid {
+  margin: 20px 0px;
+  padding: 5px 10px;
+  border: 2px solid red;
+  background-color: #ffffff;
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}
